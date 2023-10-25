@@ -1,0 +1,31 @@
+// Definisikan kelas EnergiPotensial
+class EnergiPotensial {
+    private final double massa;    // massa benda dalam kilogram
+    private final double ketinggian;  // ketinggian benda dalam meter
+
+    // Konstruktor untuk inisialisasi massa dan ketinggian
+    public EnergiPotensial(double massa, double ketinggian) {
+        this.massa = massa;
+        this.ketinggian = ketinggian;
+    }
+
+    // Metode untuk menghitung energi potensial (joule)
+    public double hitungEnergiPotensial() {
+        double gravitasi = 9.81;  // percepatan gravitasi bumi dalam m/s^2
+        return massa * gravitasi * ketinggian;
+    }
+}
+
+// Kelas utama untuk pengujian
+public class potensial {
+    public static void main(String[] args) {
+        // Membuat objek EnergiPotensial dengan massa 10 kg dan ketinggian 5 meter
+        EnergiPotensial energiPotensial = new EnergiPotensial(20, 8);
+
+        // Menghitung energi potensial
+        double energi = energiPotensial.hitungEnergiPotensial();
+
+        // Menampilkan hasil perhitungan energi potensial
+        System.out.println("Energi potensial adalah: " + energi + " joule");
+    }
+}
