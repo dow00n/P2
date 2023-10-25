@@ -1,0 +1,32 @@
+package praktikum_p3;
+class debit {
+int volumeAir;
+double waktu;
+
+public debit(int volumeAir, double waktu){
+    this.volumeAir = volumeAir;
+    this.waktu = waktu;
+}
+
+public int hitungDebit(){
+    if (waktu !=0){
+        return (int) (volumeAir/waktu);
+    }else {
+    return 0;
+    }
+    }
+}
+ public class Main{
+public static void main (String[] args){
+    // Input volume air (dalam liter) dan waktu penggunaan air (dalam detik)
+    double volumeAir = 24;    // misalnya, 24 liter
+    int waktu = 10;           // misalnya, 10 detik
+ 
+    // Membuat objek DebitAir menggunakan konstruktor
+    debit debit = new debit((int) volumeAir, waktu);
+
+    // Menghitung debit air dan menampilkannya
+    double debit1 = debit.hitungDebit();
+    System.out.println("Debit Air: " + debit + " liter/detik");
+}
+}
