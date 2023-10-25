@@ -94,7 +94,7 @@ No 9
   
 No 1
 
-
+![image](https://githubusercontent.com/dow00n/P3/main/Screenshot/P3_Nomor1_F1B021137.png)
 
 No 2
 
