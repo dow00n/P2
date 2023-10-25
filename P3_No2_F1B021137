@@ -1,0 +1,29 @@
+package Identitas;
+public class Identitas{
+String nama;
+String nim;
+int kelompok;
+
+//dengan paramter
+Identitas (String nama, String nim, int kelompok) {
+this.nama = nama;
+this.nim = nim;
+this.kelompok = kelompok;
+}
+
+Identitas () {
+nama = "Muhammad Rafli";
+nim = "F1B021137";
+kelompok = 2;
+}
+
+
+public static void main(String[] args) {
+Identitas Identitas1 = new Identitas();
+Identitas Identitas2 = new Identitas("Muhammad Rafli", "F1B021137", 2);
+
+System.out.println("nama: " + Identitas1.nama);
+System.out.println("nim: " + Identitas1.nim);
+System.out.println("kelompok: " + Identitas1.kelompok);
+}
+}
