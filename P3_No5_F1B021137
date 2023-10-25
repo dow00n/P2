@@ -1,0 +1,41 @@
+public class birthday {
+public String hari;
+public int tanggal;
+public String bulan;
+public double tahun;
+
+private birthday() {
+this.hari = "rabu";
+this.tanggal = 24;
+this.bulan = "april";
+this.tahun = 2002;
+}
+
+private birthday(String hari, String bulan, int tanggal, double tahun){
+this.hari = hari;
+this.bulan = bulan;
+this.tanggal = tanggal;
+this.tahun = tahun;
+}
+
+// Metode untuk menampilkan informasi mahasiswa
+    public void displayInfo() {
+        System.out.println("hari: " + hari);
+        System.out.println("bulan: " + bulan);
+        System.out.println("tangal: " + tanggal);
+        System.out.println("tahun: " + tahun);
+    }
+    
+public static void main(String[] args){
+// Membuat objek mahasiswa menggunakan konstruktor pertama
+birthday birthday1 = new birthday();
+// Membuat objek mahasiswa menggunakan konstruktor kedua
+birthday birthday2 = new birthday();
+  
+
+System.out.println("hari: " +birthday1.hari);
+System.out.println("Tanggal: " +birthday2.tanggal);
+System.out.println("Bulan: " +birthday1.bulan);
+System.out.println("Tahun: " +birthday2.tahun);
+}
+}
