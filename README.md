@@ -98,35 +98,36 @@ No 1
 
 No 2
 
+[![image](https://raw.githubusercontent.com/dow00n/P3/main/Screenshot/P3_Nomor2_F1B021137.png)
 
 
 No 3
 
-
+[![image](https://raw.githubusercontent.com/dow00n/P3/main/Screenshot/P3_Nomor3_F1B021137.png)
 
 No 4
 
-
+[![image](https://raw.githubusercontent.com/dow00n/P3/main/Screenshot/P3_Nomor4_F1B021137.png)
 
 No 5
 
-
+[![image](https://raw.githubusercontent.com/dow00n/P3/main/Screenshot/P3_Nomor5_F1B021137.png)
 
 No 6
 
-
+[![image](https://raw.githubusercontent.com/dow00n/P3/main/Screenshot/P3_Nomor6_F1B021137.png)
 
 No 7
 
-
+[![image](https://raw.githubusercontent.com/dow00n/P3/main/Screenshot/P3_Nomor7_F1B021137.png)
 
 No 8
 
-
+[![image](https://raw.githubusercontent.com/dow00n/P3/main/Screenshot/P3_Nomor8_F1B021137.png)
 
 No 9
 
-
+[![image](https://raw.githubusercontent.com/dow00n/P3/main/Screenshot/P3_Nomor9_F1B021137.png)
 
 - F1B021008
   
