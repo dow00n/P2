@@ -1,0 +1,37 @@
+package praktikum_p3;
+public class nilai {
+String mk;
+int nilai;
+
+//satu paramater 
+public nilai(String mk) {
+    this.mk = mk;
+    this.nilai = 85;
+}
+
+//dua parameter (nama dan nilai)
+public nilai(String mk, int nilai){
+    this.mk = mk;
+    this.nilai = nilai;
+}
+
+// Metode untuk menampilkan informasi nilai mk
+    public void displayInfo() {
+        System.out.println("mk: " + mk);
+        System.out.println("nilai: " + nilai);
+    }
+ 
+
+    public static void main(String[] args){
+    
+    nilai nilai1 = new nilai("PBO", 80);
+    nilai nilai2 = new nilai("KSI", 85);
+
+    System.out.println("mata Kuliah: " +nilai1.mk);
+    System.out.println("nilai: " +nilai1.nilai);
+
+    System.out.println("mata Kuliah: " +nilai2.mk);
+    System.out.println("nilai: " +nilai2.nilai);
+
+}
+}
