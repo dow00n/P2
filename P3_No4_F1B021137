@@ -1,0 +1,37 @@
+package praktikum_p3;
+public class mobil {
+private String nama;
+private int tahun;
+
+private mobil() {
+nama = "Avanza";
+}
+private mobil(String nama, int tahun) {
+this.tahun = tahun;
+}
+
+public String getNama(){
+return nama;
+}
+
+public void setNama(String nama){
+this.nama = nama;
+}
+
+public int getTahun(){
+return tahun;
+}
+
+public void setTahun(int tahun){
+this.tahun = tahun;
+}
+
+public static void main(String[] args){
+mobil mobil1 = new mobil();
+mobil1.setNama("Avanza");
+mobil1.setTahun(2018);
+
+System.out.println("Jenis mobil1: " +mobil1.getNama());
+System.out.println("Tahun mobil1: " +mobil1.getTahun());
+}
+}
