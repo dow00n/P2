@@ -47,38 +47,47 @@ No 9
 
 No 1
 
+![image](https://github.com/dow00n/P3/assets/148226231/f2add72a-ce23-4a62-9f7d-3fe6d22aa5e1)
 
 
 No 2
 
+![image](https://github.com/dow00n/P3/assets/148226231/28bc9bf8-05a3-412c-acc2-b80731dbaf38)
 
 
 No 3
 
+![image](https://github.com/dow00n/P3/assets/148226231/7561e763-7037-4904-9fa7-5cfd9143be05)
 
 
 No 4
 
+![image](https://github.com/dow00n/P3/assets/148226231/ef034dfb-2d57-45ae-92ee-f56a45034995)
 
 
 No 5
 
+![image](https://github.com/dow00n/P3/assets/148226231/8264666e-0b59-491d-82a4-197dfd83f944)
 
 
 No 6
 
+![image](https://github.com/dow00n/P3/assets/148226231/b3626ddd-450d-460e-ba47-b746afe46f69)
 
 
 No 7
 
+![image](https://github.com/dow00n/P3/assets/148226231/4758abf4-4a50-4743-a205-5f6450aa3266)
 
 
 No 8
 
+![image](https://github.com/dow00n/P3/assets/148226231/3016e670-7af3-45c7-afd0-3cb847ec057c)
 
 
 No 9
 
+![image](https://github.com/dow00n/P3/assets/148226231/224accc0-45d5-488f-ac19-73cbc28398aa)
 
 
 - F1B021137
